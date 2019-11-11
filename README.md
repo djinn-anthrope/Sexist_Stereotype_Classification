@@ -11,7 +11,7 @@ Due to the advent of social media, there is an increase in the number of interac
 
 Recall            |  Precision
 :-------------------------:|:-------------------------:
-![](results/sns_classfication/rec_all_sns.png) | ![](results/sns_classfication/prec_all_sns.png)'
+![](results/sns_classfication/rec_all_sns.png) | ![](results/sns_classfication/prec_all_sns.png)
 
 Accuracy            |  Training Loss
 :-------------------------:|:-------------------------:
