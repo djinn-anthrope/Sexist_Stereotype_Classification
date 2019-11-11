@@ -14,7 +14,6 @@ Recall            |  Precision
 :-------------------------:|:-------------------------:
 ![](results/sns_classfication/rec_all_sns.png) | ![](results/sns_classfication/prec_all_sns.png)
 Accuracy            |  Training Loss
-:-------------------------:|:-------------------------:
 ![](results/sns_classfication/acc_all_sns.png) | ![](results/sns_classfication/train_loss_allsns.png)
 
 
