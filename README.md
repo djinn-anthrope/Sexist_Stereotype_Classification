@@ -25,14 +25,13 @@ Recall            |  Precision
 :-------------------------:|:-------------------------:
 ![](results/multiple/multi_rec_all_sns.png) | ![](results/multiple/multi_prec_all_sns.png)
 Accuracy            |  F1-score
-![](results/multiple/multi_acc_all_sns.png) | ![](results/multiple/multi_f1-score-sns.png)
+![](results/multiple/mutlti_acc_all_sns.png) | ![](results/multiple/mutiple_f1_all.png)
 
 | Model                                | Recall | Precision | F1 \-Score | Accuracy |
 |--------------------------------------|--------|-----------|------------|----------|
 | Single Layer LSTM \(50 dimensions\)  | 0\.55  | 0\.49     | 0\.518     | 0\.605   |
 | Single Layer LSTM \(100 dimensions\) | 0\.51  | 0\.44     | 0\.472     | 0\.535   |
 | Two Layer LSTM \(100 dimensions\)    | 0\.484 | 0\.443    | 0\.462     | 0\.513   |
-
 
 
 
