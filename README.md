@@ -8,6 +8,11 @@ Due to the advent of social media, there is an increase in the number of interac
 | Single Layer LSTM \(100 dimensions\) | 0\.50  | 0\.39     | 0\.44      | 0\.62    |
 | Two Layer LSTM \(100 dimensions\)    | 0\.45  | 0\.36     | 0\.41      | 0\.58    |
 | Single Layer RNN \(100 dimensions\)  | 0\.43  | 0\.37     | 0\.39      | 0\.57    |
+| Model                                | Recall | Precision | F1 \-Score | Accuracy |
+|--------------------------------------|--------|-----------|------------|----------|
+| Single Layer LSTM \(50 dimensions\)  | 0\.55  | 0\.49     | 0\.518     | 0\.605   |
+| Single Layer LSTM \(100 dimensions\) | 0\.51  | 0\.44     | 0\.472     | 0\.535   |
+| Two Layer LSTM \(100 dimensions\)    | 0\.484 | 0\.443    | 0\.462     | 0\.513   |
 
 Training Loss
 ![](results/sns_classfication/train_loss_allsns.png)
@@ -27,11 +32,7 @@ Recall            |  Precision
 Accuracy            |  F1-score
 ![](results/multiple/mutlti_acc_all_sns.png) | ![](results/multiple/mutiple_f1_all.png)
 
-| Model                                | Recall | Precision | F1 \-Score | Accuracy |
-|--------------------------------------|--------|-----------|------------|----------|
-| Single Layer LSTM \(50 dimensions\)  | 0\.55  | 0\.49     | 0\.518     | 0\.605   |
-| Single Layer LSTM \(100 dimensions\) | 0\.51  | 0\.44     | 0\.472     | 0\.535   |
-| Two Layer LSTM \(100 dimensions\)    | 0\.484 | 0\.443    | 0\.462     | 0\.513   |
+
 
 
 
