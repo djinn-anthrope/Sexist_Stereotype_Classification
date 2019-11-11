@@ -9,12 +9,23 @@ Due to the advent of social media, there is an increase in the number of interac
 | Two Layer LSTM \(100 dimensions\)    | 0\.45  | 0\.36     | 0\.41      | 0\.58    |
 | Single Layer RNN \(100 dimensions\)  | 0\.43  | 0\.37     | 0\.39      | 0\.57    |
 
+Training Loss
+![](results/sns_classfication/train_loss_allsns.png)
 
 Recall            |  Precision
 :-------------------------:|:-------------------------:
 ![](results/sns_classfication/rec_all_sns.png) | ![](results/sns_classfication/prec_all_sns.png)
-Accuracy            |  Training Loss
-![](results/sns_classfication/acc_all_sns.png) | ![](results/sns_classfication/train_loss_allsns.png)
+Accuracy            |  F1-score
+![](results/sns_classfication/acc_all_sns.png) | ![](results/sns_classfication/f1-score-sns.png)
+
+Training Loss
+![](results/multiple/mutiple_train_loss_all.png)
+
+Recall            |  Precision
+:-------------------------:|:-------------------------:
+![](results/multiple/multi_rec_all_sns.png) | ![](results/multiple/multi_prec_all_sns.png)
+Accuracy            |  F1-score
+![](results/multiple/multi_acc_all_sns.png) | ![](results/multiple/multi_f1-score-sns.png)
 
 | Model                                | Recall | Precision | F1 \-Score | Accuracy |
 |--------------------------------------|--------|-----------|------------|----------|
