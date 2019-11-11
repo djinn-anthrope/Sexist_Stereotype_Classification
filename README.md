@@ -15,7 +15,7 @@ Due to the advent of social media, there is an increase in the number of interac
 | Single Layer LSTM \(100 dimensions\) | 0\.51  | 0\.44     | 0\.472     | 0\.535   |
 | Two Layer LSTM \(100 dimensions\)    | 0\.484 | 0\.443    | 0\.462     | 0\.513   |
 
-Training Loss
+
 ![](results/sns_classfication/train_loss_allsns.png)
 
 Recall            |  Precision
@@ -24,7 +24,7 @@ Recall            |  Precision
 Accuracy            |  F1-score
 ![](results/sns_classfication/acc_all_sns.png) | ![](results/sns_classfication/f1-score-sns.png)
 
-Training Loss
+
 ![](results/multiple/mutiple_train_loss_all.png)
 
 Recall            |  Precision
